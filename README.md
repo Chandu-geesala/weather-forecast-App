@@ -15,8 +15,7 @@ This Weather App is a Flutter-based application that allows users to fetch and d
 
 ## Screenshots
 
-![Home Screen](path/to/home_screen.png)
-![Forecast Screen](path/to/forecast_screen.png)
+<img src="https://github.com/user-attachments/assets/d3a5a4a1-4db2-4827-beca-7e5392651b95" alt="Scrn1" width="300" height="600">
 
 ## Technologies Used
 
