@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import 'package:neonflake/models/weather_model.dart';
 
 class ApiService {
-  final String apiKey = 'c5e8d89a2d5c5affa7c24064a4af53ce';
+  final String apiKey = 'Your_api';
   final String baseUrl = 'https://api.openweathermap.org/data/2.5';
 
   Future<Weather> fetchCurrentWeather(String city) async {
